@@ -19,7 +19,6 @@ Soc una persona molt treballadora quan alguna cosa em motiva, m’agrada gaudir 
 ---
 
    *Experiència Laboral*
-- 2023-24: Treballant en una fàbrica Boboli 
 - 2023-24: Escola Pia Voluntariat - Títol Mossos d’Esquadra  
 - 2023-25: Experiència en Arduino optatives  
 - 2024-25: Experiència en infants
