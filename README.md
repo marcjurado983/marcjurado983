@@ -1,4 +1,4 @@
----
+
 # **Marc Jurado Valero**
 **Estudiant de Sistemes Informàtics i Xarxes — Escola Pia Santa Anna (Mataró)**  
 **Promoció 2026**
