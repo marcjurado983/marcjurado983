@@ -59,11 +59,3 @@
 
 ---
 
-Si vols, també et puc generar:
-
-- Una versió **més formal**  
-- Una versió **per LinkedIn**  
-- Una versió **en format CV europeu (Europass)**  
-- Una versió **amb disseny visual per Canva**
-
-Només digues quina vols.
