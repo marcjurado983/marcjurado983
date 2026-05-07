@@ -1,6 +1,3 @@
-Perfecte, Marc. Aquí tens el **teu CV complet en format Markdown**, ja corregit i polit perquè el puguis posar directament al teu GitHub o al teu portfoli.  
-L’he adaptat perquè quedi **professional però adequat a un estudiant de 16 anys**.
-
 ---
 
 # **Marc Jurado Valero**
