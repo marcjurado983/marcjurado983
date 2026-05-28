@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Estudiant+SMX+%40+Escola+Pia;Aprenent+constantment...;Obert+a+noves+oportunitats!)](https://git.io/typing-svg)
 
-# 👋 Marc Jurado · marcjurado983
+# Marc Jurado
 
 ![Profile views](https://komarev.com/ghpvc/?username=marcjurado983&color=58a6ff&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/marcjurado983?style=social)](https://github.com/marcjurado983)
