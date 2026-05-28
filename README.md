@@ -59,6 +59,26 @@
 
 ---
 
+## 📁 Projectes Destacats — SMX2 · Escola Pia Santa Anna
+
+<!-- Taula de projectes -->
+
+| # | Projecte | Descripció | Commits | Eines |
+|---|----------|-----------|---------|-------|
+| 1 | [🚀 Arranquem](https://drive.google.com/drive/folders/1gpwSWWGF2SfL432H5jOyskqbxNY6JXpr) | Primer projecte del cicle · Documentació i eines col·laboratives | — | Google Drive |
+| 2 | [🏢 EverPia — Consultoria IT](https://github.com/marcjurado983/Projecte2) | Simulació d'una consultoria IT amb ànima educativa · 10 tasques | 136 | Git · Kanban |
+| 3 | [💼 EverPia 2 — Empresa IT](https://github.com/marcjurado983/Projecte3) | "Sobreviure en una empresa IT" · El projecte amb més commits | 296 | Git · Kanban |
+| 4 | [🔧 EverPia III](https://github.com/marcjurado983/Projecte4) | Tercer lliurament EverPia · 15 tasques documentades | 147 | Git · Kanban |
+| 5 | [🐣 La Incubadora](https://github.com/marcjurado983/projecte5-marcjurado) | Projecte via GitHub Classroom · 10 tasques T01–T10 | 34 | GitHub Classroom |
+| 6 | [🌐 Nexus](https://github.com/marcjurado983/projecte6-marcjurado983) | Xarxes i sistemes integrats · GitHub Classroom | — | Xarxes · Sistemes |
+| 7 | [🍽️ Food Logístics S.A.](https://github.com/marcjurado983/projecte-7-marcjurado983) | Modernització IT empresa logística · 12 tasques · Web + Logo | 60 | Xarxes · DNS · Web |
+| 8 | [🔌 Connecta't al Futur](https://github.com/marcjurado983/Projecte8_Enunciat) | Projecte final del cicle · Infraestructura de xarxa completa | — | Xarxes · Infraestructura |
+| 🌍 | [Web Corporativa](https://marcjurado983.github.io/web-corporativa/) | HTML5+CSS3 · Desplegada via GitHub Actions a GitHub Pages | 31 | HTML · CSS · CI/CD |
+
+> 🏫 Projectes realitzats durant el CFGM de Sistemes Microinformàtics i Xarxes a l'Escola Pia Santa Anna (Mataró), curs 2024–2026.
+
+
+---
 
 ## 📊 Estadístiques GitHub
 
