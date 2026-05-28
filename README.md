@@ -59,7 +59,6 @@
 
 ---
 
-## 📁 Projectes Destacats — SMX2 · Escola Pia Santa Anna
 
 ![Projectes SMX2](./assets/projectes-smx2.svg)
 
