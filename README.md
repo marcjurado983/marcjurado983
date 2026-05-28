@@ -1,74 +1,82 @@
 
-# **Marc Jurado Valero**
-**Estudiant de Sistemes Informàtics i Xarxes — Escola Pia Santa Anna (Mataró)**  
-**Promoció 2026**
----
+<div align="center">
 
-## 🖥️ Administració i Xarxes
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Estudiant+SMX+%40+Escola+Pia;Aprenent+constantment...;Obert+a+noves+oportunitats!)](https://git.io/typing-svg)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Xarxes i Seguretat](https://img.shields.io/badge/Xarxes_i_Seguretat_🔒-555555?style=flat)
-![Serveis](https://img.shields.io/badge/Serveis-gray?style=flat)
-![DNS](https://img.shields.io/badge/DNS_|_DHCP_|_FTP-FF6600?style=flat)
+# 👋 Marc Jurado · marcjurado983
 
-## ⚙️ Automatització IA
+![Profile views](https://komarev.com/ghpvc/?username=marcjurado983&color=58a6ff&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/marcjurado983?style=social)](https://github.com/marcjurado983)
 
-![IA](https://img.shields.io/badge/IA-gray?style=flat)
-![Eines Integrades](https://img.shields.io/badge/Eines_Integrades-7B2FBE?style=flat)
----
-
-## 🧑‍🎓 **Formació Acadèmica**
-- Graduat en **Educació Secundària Obligatòria** (2020–2024)  
-- **Cicle Formatiu de Grau Mitjà – Sistemes Microinformàtics i Xarxes** (2024–2026)  
-- Estudiant d’**automatització d’IA** pel meu compte (2026)
+</div>
 
 ---
 
-## 💼 **Experiència Laboral**
-- **Pràctiques a Merka360** (2025–2026)  
-- **Voluntariat a l’Escola Pia** + curs de **xarxes dels Mossos d’Esquadra** (2024–2025)  
-- Experiència amb **Arduino**, **impressores 3D** i **digitalització**  
-- **Treballador de magatzem** a PUNTO ROMA (2025–2026)  
-- Certificat de **Suport Vital Bàsic**
+## 🧑‍💻 Sobre mi
+
+- 🎓 Estudiant de **Sistemes Microinformàtics i Xarxes** @ Escola Pia Santa Anna
+- 💼 Pràctiques a **Merka360** (2025–2026)
+- 🤖 Apassionat per la **IA, ciberseguretat i xarxes**
+- 🌱 Aprenent constantment coses noves
+- 📍 Mataró, Barcelona
 
 ---
 
-## 🌍 **Idiomes**
-- **Català** — Nadiu  
-- **Castellà** — Nadiu  
-- **Anglès** — Nivell B2
+## 🛠️ Tecnologies i Competències
+
+#### 🖥️ Administració i Xarxes
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![DNS DHCP FTP](https://img.shields.io/badge/DNS_|_DHCP_|_FTP-FF6600?style=for-the-badge)
+
+#### ⚙️ Automatització i Gestió
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_/_Kanban-4CAF50?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA_·_Eines_Integrades-7B2FBE?style=for-the-badge)
 
 ---
 
-## 📞 **Contacte**
-- **Email:** marcjurado00@gmail.com  
-- **Telèfon:** 655 758 954  
-- **Ubicació:** Mataró (Barcelona)
+## 📊 Estadístiques GitHub
+
+<div align="center">
+
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcjurado983&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcjurado983&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=marcjurado983&theme=github-dark-blue&hide_border=true)
+
+</div>
 
 ---
 
-## 🙋‍♂️ **Sobre mi**
-- Soc en Marc, nascut el **15 de desembre del 2008**.  
-- Em considero una persona **treballadora, implicada i disciplinada**.  
-- M’agrada proposar-me objectius i complir-los.  
-- Tinc bona actitud, soc **organitzat, sociable i madur**, i sé tractar bé amb els clients.  
-- Em sento còmode treballant tant **sol** com **en equip**.
+## 🌍 Idiomes
+
+| Idioma | Nivell |
+|--------|--------|
+| 🇦🇩 Català | Nadiu |
+| 🇪🇸 Castellà | Nadiu |
+| 🇬🇧 Anglès | B2 |
 
 ---
 
-## 💡 **Què valoro en una feina**
-- **Valors:** educació, respecte, disciplina i bona actitud.  
-- **Ambient:** entorn tranquil, sense pressió i amb bon clima laboral.  
-- **Condicions:** bona compensació i proximitat al lloc de treball.  
-- **Objectiu personal:** ajudar en tot el que calgui i aprendre constantment.
+## 📞 Contacte
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcjurado00@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcjurado983)
 
 ---
 
-## 🔗 **Perfil GitHub**
-**marjurado983**  
-> “Hola, soc en Marc Jurado, estudiant de Sistemes Informàtics i Xarxes. He realitzat pràctiques en empreses i m’interessa molt la tecnologia, la IA i la ciberseguretat.”  
-👉 `https://github.com/marjurado983` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fmarjurado983")
+<div align="center">
+⭐ Si t'agrada el meu treball, deixa'm una estrella!
+</div>
 
----
+
+
+
+
+
 
