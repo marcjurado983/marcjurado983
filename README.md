@@ -59,16 +59,6 @@
 
 ---
 
-## 📁 Projectes Destacats
-
-| Projecte | Descripció | Commits | Tecnologies |
-|----------|-----------|---------|-------------|
-| [🌐 web-corporativa](https://github.com/marcjurado983/web-corporativa) | Web HTML/CSS amb CI/CD a GitHub Pages | 31 | HTML · CSS · GitHub Actions |
-| [📦 Projecte4](https://github.com/marcjurado983/Projecte4) | 15 tasques de sistemes i xarxes | 147 | Linux · Xarxes · Kanban |
-| [📦 Projecte3](https://github.com/marcjurado983/Projecte3) | 10 tasques, màxim de commits | 296 | Sistemes · Documentació |
-| [📦 Projecte2](https://github.com/marcjurado983/Projecte2) | 10 tasques amb reflexió final | 136 | Xarxes · Kanban |
-
----
 
 ## 📊 Estadístiques GitHub
 
