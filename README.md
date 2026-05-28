@@ -61,7 +61,7 @@
 
 ## 📁 Projectes Destacats — SMX2 · Escola Pia Santa Anna
 
-<img width="138" height="150" alt="projectes-smx2" src="https://github.com/user-attachments/assets/a5a92979-608b-4319-8925-cb505c2b1833" />
+<img width="1000" height="1000" alt="projectes-smx2" src="https://github.com/user-attachments/assets/a5a92979-608b-4319-8925-cb505c2b1833" />
 
 
 ---
