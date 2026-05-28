@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcjurado983&show_icons=true&theme=github_dark&hide_border=true)
+[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcjurado983&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/marcjurado983)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcjurado983&layout=compact&theme=github_dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcjurado983&layout=compact&theme=github_dark&hide_border=true)](https://github.com/marcjurado983)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=marcjurado983&theme=github-dark-blue&hide_border=true)
 
