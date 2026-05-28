@@ -2,7 +2,20 @@
 # **Marc Jurado Valero**
 **Estudiant de Sistemes Informàtics i Xarxes — Escola Pia Santa Anna (Mataró)**  
 **Promoció 2026**
+---
 
+## 🖥️ Administració i Xarxes
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Xarxes i Seguretat](https://img.shields.io/badge/Xarxes_i_Seguretat_🔒-555555?style=flat)
+![Serveis](https://img.shields.io/badge/Serveis-gray?style=flat)
+![DNS](https://img.shields.io/badge/DNS_|_DHCP_|_FTP-FF6600?style=flat)
+
+## ⚙️ Automatització IA
+
+![IA](https://img.shields.io/badge/IA-gray?style=flat)
+![Eines Integrades](https://img.shields.io/badge/Eines_Integrades-7B2FBE?style=flat)
 ---
 
 ## 🧑‍🎓 **Formació Acadèmica**
