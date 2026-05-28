@@ -45,6 +45,7 @@
 [![Marc's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcjurado983&theme=github_dark)](https://github.com/marcjurado983)
 
 </div>
+
 ---
 
 ## 🌍 Idiomes
