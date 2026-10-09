@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Sobre mi
 
-- 🎓 Estudiant de **Ciberseguretat i Administració de Sistemes en Xarxa 
+- 🎓 Estudiant de **Ciberseguretat i Administració de Sistemes en Xarxa** Centre d'estudis Politècnics de Barcelona
 - 💼 Pràctiques a **Merkia360** (2025–2026)
 - 🌐 He creat una **web corporativa** desplegada a GitHub Pages amb CI/CD
 - 📦 +579 commits repartits en projectes reals de xarxes i sistemes
